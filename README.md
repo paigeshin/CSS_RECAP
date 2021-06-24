@@ -38,6 +38,34 @@
 
 [Backdrop](https://www.notion.so/Backdrop-28ba3dcde7464f5aa6b0a0a2e9a4e1df)
 
----
+[Section 10, Making our Website Responsive](https://www.notion.so/Section-10-Making-our-Website-Responsive-7332c85241504189b70e2d2bad17cf77)
+
+[Meta tag for mobile device optimization](https://www.notion.so/Meta-tag-for-mobile-device-optimization-c1d1c7198f9448ff8e37c1a1339faaf2)
+
+[Meta tag options](https://www.notion.so/Meta-tag-options-c7767ae180e34a2180216c0a00151442)
+
+[Media Query](https://www.notion.so/Media-Query-9bb58042eac349f399ef7c449c979fdd)
+
+[Position footer correctly](https://www.notion.so/Position-footer-correctly-dd2caa9b93d8468f9f3780d93123ff3b)
+
+[Section 11, Styling Form Elements](https://www.notion.so/Section-11-Styling-Form-Elements-219265a16577429fbd0c304ac1c09386)
+
+[Advanced Attributed Selectors](https://www.notion.so/Advanced-Attributed-Selectors-79b8b66b47114cfb9a92c3996114d6a0)
+
+[Form Styling Example](https://www.notion.so/Form-Styling-Example-535886394c5340f2904b3cd4b040a78b)
+
+[Section 12. Text & Fonts](https://www.notion.so/Section-12-Text-Fonts-0e59d9ab61834caa80ea4c9cb71753f7)
+
+[Import web font from google](https://www.notion.so/Import-web-font-from-google-be7623f9f7974c308f887739b662d6f9)
+
+[Understanding font-family syntax](https://www.notion.so/Understanding-font-family-syntax-9bbaca113bee4c059701efd190bc05a5)
+
+[Import web fonts only on a specific css file](https://www.notion.so/Import-web-fonts-only-on-a-specific-css-file-63eee8f140fc478f87d0a65e2641603d)
+
+[Importing custom font](https://www.notion.so/Importing-custom-font-2a59ccbfe9a54e388cde2fe8e26313f6)
+
+[Diving into font properties](https://www.notion.so/Diving-into-font-properties-455cbe5105ae4f70a8d0d88f74f1dbf6)
+
+[List of essential font properties](https://www.notion.so/List-of-essential-font-properties-c361a847849043a8a1136e4e41c1828c)
 
 [Summary of modules ](https://www.notion.so/Summary-of-modules-843aa723d4cf44eca6cc828b8f7a1f4c)
