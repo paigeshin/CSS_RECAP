@@ -68,4 +68,28 @@
 
 [List of essential font properties](https://www.notion.so/List-of-essential-font-properties-c361a847849043a8a1136e4e41c1828c)
 
+[Library of Flexbox ](https://www.notion.so/Library-of-Flexbox-abf4807b413f4cd38e8c01689b73e964)
+
+[CSS Float & Clear](https://www.notion.so/CSS-Float-Clear-d472674aca5d49839ba5f3fa4aed1bc3)
+
+[Section 14, CSS Grid](https://www.notion.so/Section-14-CSS-Grid-b89ea91b6ebe4499b073167d000c9829)
+
+[**Grid Best Practices*****](https://www.notion.so/Grid-Best-Practices-227ae24e5200468b8303138835eb12fc)
+
+[Grid Shorthand](https://www.notion.so/Grid-Shorthand-1291599141bc45959bfba316bf9fe171)
+
+[Adding Named Template Areas***](https://www.notion.so/Adding-Named-Template-Areas-bd88c8ebbf75461b8d14fc81aaacc86d)
+
+[About Auto](https://www.notion.so/About-Auto-469c9f539dec42d6a3d0695036a035fa)
+
+[Set footer at the bottom using grid](https://www.notion.so/Set-footer-at-the-bottom-using-grid-cde85571f7ed4bf6af954bc782b1fe59)
+
+[Two ways to use grid*****](https://www.notion.so/Two-ways-to-use-grid-bb09814f09e6405ea9d92e86f7c5b50c)
+
+[All about grid positioning ***](https://www.notion.so/All-about-grid-positioning-707db04ada54456bbc1695da80b543c3)
+
+[Build Responsive Layout with Grid *****](https://www.notion.so/Build-Responsive-Layout-with-Grid-d8bf6ea0e15540e49904b68a7fac4679)
+
 [Summary of modules ](https://www.notion.so/Summary-of-modules-843aa723d4cf44eca6cc828b8f7a1f4c)
+
+[Checklist](https://www.notion.so/Checklist-e86597ae85174f068046fc619ddadf1b)
