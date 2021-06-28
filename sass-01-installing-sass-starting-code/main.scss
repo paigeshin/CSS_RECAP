@@ -1,0 +1,129 @@
+@import "_variables.scss";
+@import "typography.scss";
+
+/* SCSS feature 10, Mixin */
+@mixin display-flex() {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+
+/* SCSS feature 11, Mixin with parameters */
+@mixin media-min-width($width) {
+  @media (min-width: $width) {
+    @content;
+  }
+}
+
+html {
+  font-size: 94.75%;
+
+  /* SCSS feature 9, Nested Media Query */
+  @media (min-width: 40rem) {
+    font-size: 125%;
+  }
+
+  /* Overriding the code above */
+  /* SCSS feature 11, Mixin with parameters */
+  @include media-min-width(40rem) {
+    font-size: 125%;
+  }
+  
+}
+
+body {
+  font-family: $global-font;
+  margin: 0;
+}
+
+.container {
+  /* SCSS feature 10, Mixin */
+  @include display-flex();
+  /* SCSS feature 2, Nested Properties */ 
+  flex: {
+    direction: column;
+    wrap: nowrap;
+  }
+
+  align-items: center;
+  padding: $size-default*3 0; /* SCSS feature 8, Arithmetic */ 
+  box-sizing: border-box;
+}
+
+/* SCSS feature 10, Inheritance */
+.sass-section {
+  border: $border-default;
+  background: lighten(map-get($colors, main), 72%); /* /* SCSS feature 7, Built-in lighten(color, percentage) */
+  padding: $size-default * 2;
+  text-align: center;
+  width: 90%;
+  box-sizing: border-box;
+  @media (min-width: 40rem) {
+    width: 30rem;
+  }
+
+  /* SCSS feature 11, Mixin with parameters */
+  @include media-min-width(40rem) {
+    width: 30rem;
+  }
+
+}
+
+
+/* SCSS feature 10, Inheritance */
+.sass-introduction {
+  @extend .sass-section;
+  box-shadow: $size-tiny $size-tiny 0.1 #ccc;
+  p {
+    margin: 0;
+  }
+}
+
+/* SCSS feature 10, Inheritance */
+.sass-details {
+  @extend .sass-section;
+  margin: $size-default*2 0;
+}
+
+.section-header {
+  border-bottom: $border-default;
+  h1 {
+    margin: 0 0 $size-default 0;
+  }
+}
+
+
+.documentation-links {
+  list-style: none;
+  margin: $size-default 0 0 0;
+  padding: 0;
+  @include display-flex();
+  display: flex;
+  flex-direction: column;
+
+  /* SCSS feature 1, Nested Structure */ 
+  li {
+    margin: $size-tiny 0;
+    background: white;
+  }
+
+  .documentation-link {
+      text-decoration: none;
+      color: map-get($colors, main);
+      display: block;
+      padding: $size-tiny;
+      border: $border-default;
+
+      /* SCSS feature 12. Pseudo class with ampersnd */
+      &:hover, 
+      &:active {
+      color: white;
+      background: map-get($colors, second);
+      border-color: map-get($colors, second);
+    }
+
+  }
+
+
+}

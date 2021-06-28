@@ -90,6 +90,42 @@
 
 [Build Responsive Layout with Grid *****](https://www.notion.so/Build-Responsive-Layout-with-Grid-d8bf6ea0e15540e49904b68a7fac4679)
 
+[Grid Autoflow](https://www.notion.so/Grid-Autoflow-ca58b78935cb49c0bd042a7f8631f5e7)
+
+[Grid cell size properties, auto-fill, auto-fit](https://www.notion.so/Grid-cell-size-properties-auto-fill-auto-fit-b7fad12a8baa42d89e1e8f66e8af27b3)
+
+[Section 15, Transforming Elements with CSS Transforms](https://www.notion.so/Section-15-Transforming-Elements-with-CSS-Transforms-30cfb3b712a8422ba820e3489f0ddc33)
+
+[Section 16: Transitions & Animations in CSS](https://www.notion.so/Section-16-Transitions-Animations-in-CSS-5a0e0ce97c1442208a89397068150131)
+
+[Transition example](https://www.notion.so/Transition-example-3848ee9b66da4f73bd078911a552439a)
+
+[Modal Transition Magic Formula](https://www.notion.so/Modal-Transition-Magic-Formula-2b5a11ff2ad048159cf775cad8d2a4a6)
+
+[How to handle *display: block* with transition?](https://www.notion.so/How-to-handle-display-block-with-transition-91091fc53c5f425ea4ac4c24f22612d1)
+
+[CSS keyframes](https://www.notion.so/CSS-keyframes-6c12ccd1ddb9435597f3eda2ad0df06b)
+
+[Section 17: Writing Future-Proof CSS Code](https://www.notion.so/Section-17-Writing-Future-Proof-CSS-Code-82752436052d4d58be63e0db9c67d71c)
+
+[CSS Variable](https://www.notion.so/CSS-Variable-da01c41dfe714a2bb565e2a752d2f354)
+
+[Vendor Prefixes ](https://www.notion.so/Vendor-Prefixes-c515e297c92d4523b19efff166d12a97)
+
+[@supports query for multiple browser support](https://www.notion.so/supports-query-for-multiple-browser-support-ee0c7c152ce5478f9875ea4df1d600ef)
+
+[Polyfiils for multiple browser support](https://www.notion.so/Polyfiils-for-multiple-browser-support-df9e1d028e4b45d8a3ea71e960a9007c)
+
+[Eliminate Cross-Browser Inconsistencies ](https://www.notion.so/Eliminate-Cross-Browser-Inconsistencies-481ee23f1a8d4666880c9d43c0c9f702)
+
+[How to Name CSS Classes (BEM System) ](https://www.notion.so/How-to-Name-CSS-Classes-BEM-System-f101c9f221a44f71b24b8b272825b0b8)
+
+# SASS
+
+[Section 18, Introducing Sass(Syntactically Awesome Style Sheets)](https://www.notion.so/Section-18-Introducing-Sass-Syntactically-Awesome-Style-Sheets-941740791a104da191af7ab5622142e0)
+
+---
+
 [Summary of modules ](https://www.notion.so/Summary-of-modules-843aa723d4cf44eca6cc828b8f7a1f4c)
 
 [Checklist](https://www.notion.so/Checklist-e86597ae85174f068046fc619ddadf1b)
